@@ -7,7 +7,7 @@
 
 A quick view of the current price of your chosen asset pair from Krakens free OHLC API. The graph will display acording to you selected range. Dots get a more prominent color based on their volume; higher volume for that time frame -> brighter color.
 
-Edit to `src/config.js` to set up your widget!
+Edit `src/config.js` to set up your widget!
 
 ### Installation
 
